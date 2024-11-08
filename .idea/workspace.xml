@@ -4,15 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b189d4c9-dd71-42e5-8b8f-cb18467d83b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b189d4c9-dd71-42e5-8b8f-cb18467d83b2" name="Changes" comment="modify: change the main page design to have the opportunity to call login and protected APIs.">
+      <change afterPath="$PROJECT_DIR$/src/app/api/protected/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/token/refresh/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/token/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/axiosInstance.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/utils/auth.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,11 +67,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731044946272</updated>
-      <workItem from="1731044947309" duration="1774000" />
+      <workItem from="1731044947309" duration="3110000" />
     </task>
+    <task id="LOCAL-00001" summary="modify: change the main page design to have the opportunity to call login and protected APIs.">
+      <option name="closed" value="true" />
+      <created>1731046836503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731046836503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify: change the main page design to have the opportunity to call login and protected APIs." />
+    <option name="LAST_COMMIT_MESSAGE" value="modify: change the main page design to have the opportunity to call login and protected APIs." />
   </component>
 </project>
